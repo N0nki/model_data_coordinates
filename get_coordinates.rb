@@ -8,7 +8,7 @@ require "geocoder"
 # @param [String] suffix 緯度・経度を求める際に都市の文字列の後に付加される文字列
 # @param [String] language 都市の文字列の言語
 # @param [String] http_proxy プロキシ
-def get_coodinates(cities, filename, prefix: "", suffix: "",
+def get_coordinates(cities, filename, prefix: "", suffix: "",
                    language: :en, http_proxy: "")
   if http_proxy.empty?
     opt = {language: language, units: :km}
