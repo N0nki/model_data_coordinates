@@ -1,3 +1,7 @@
+# これはなに
+
+proposal_packagesのdrawing.pyで必要なモデルデータの緯度・経度のcsvと、csvを作成するためのRubyスクリプト。
+
 # Ruby scripts
 
 ## 必要なライブラリ
