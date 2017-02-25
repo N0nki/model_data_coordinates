@@ -34,7 +34,7 @@ jpn48のノード番号1から21までの都市の緯度・軽度
 * jpn48\_coordinates_part2.csv  
 jpn48のノード番号22から48までの都市の緯度・軽度
 
-* jpn\_coordinates.csv  
+* jpn48\_coordinates.csv  
 jpn48の各ノードを表す都市の緯度・経度  
 
 * NSFNET\_coordinates.csv  
